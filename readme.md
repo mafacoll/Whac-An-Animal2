@@ -45,7 +45,9 @@ Product backlog
 <h3>style.css<h3>
 <ol>
 <li>centering canvas</li>
-<li></li>
+<li>styling buttons</li>
+<li>styling instructions</li>
+
 
 </ol>
   
