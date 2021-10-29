@@ -26,14 +26,16 @@ Product backlog
 <li>adding more animals</li>
 <li>adding more details in the background</li>
 <li>make the animal pop out of the actual hole</li>
+<li>changing background to signal passage of time</li>
+
 </ol>
 
 <h2>Data structure:</h2>
 <h3>index.html<h3>
 <ol>
+<li>canvas</li>
 <li>start button</li>
 <li>restart button</li>
-<li>canvas</li>
 </ol>
   
 <h3>style.css<h3>
