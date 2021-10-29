@@ -12,8 +12,8 @@ Minimal Viable Product
 <ol>
 <li>game has animals that pop from the bottom up</li>
 <li>a click on the animal will give points</li>
-<li>points will be deducted for every animal missed</li>
-<li>increasing difficulty</li>
+<li>after 100 points you win</li>
+<li>if three animals are missed game over</li>
 <li>simple background</li>
 <li>add scoreboard</li>
 </ol>
@@ -22,6 +22,8 @@ Product backlog
 <ol>
 <li>adding the music</li>
 <li>adding the sound effects</li>
+<li>increasing difficulty</li>
+<li>points will be deducted for every animal missed</li>
 <li>adding the golden mole</li>
 <li>adding more animals</li>
 <li>adding more details in the background</li>
@@ -36,11 +38,15 @@ Product backlog
 <li>canvas</li>
 <li>start button</li>
 <li>restart button</li>
+<li>home page</li>
+<li>game page</li>
 </ol>
   
 <h3>style.css<h3>
 <ol>
+<li>centering canvas</li>
 <li></li>
+
 </ol>
   
 <h3>app.js<h3>
@@ -49,7 +55,7 @@ Product backlog
 <li>buildGameScreen</li>
 <li>buildGameOverScreen</li>
 <li>startGame</li>
-<li>shootAnimal</li>
+<li>clickAnimal</li>
 <li>checkClick</li>
 <li>increasescore</li>
 <li>decreaseScore</li>
